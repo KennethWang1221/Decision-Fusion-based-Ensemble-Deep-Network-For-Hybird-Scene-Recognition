@@ -67,27 +67,3 @@ In Table II, the best and second best results are presented in boldface font and
 ## Conclusion
 
 To conclude, scene recognition is an important research in the field of computer vision. In order to sketch both global and local representation from scene datasets, we proposed new network, FEDNet. Multi-feature extractors along with multi-identical classifiers are completely able to encode and categorise images. Instead of fusing the deep features from DCNNs and feeding into single-classifier, we observe that multi-identical classifiers precede single-classifier. From experiments, FEDNet makes a success in hybrid scene datasets, and it has a stable performance, compared with existing scene recognition methods. Inspired by the success of FEDNet using multi-identical classifiers, future research work can focus on developing the ensemble network with multi-diverse classifiers, the performance is expected to be further improved. 
-<<<<<<< HEAD
-
-
-
-https://github.com/KennethXiang/Decision-Fusion-based-Ensemble-Deep-Network-For-Hybird-Scene-Recognition/blob/master/Deep%20Feature%20Extraction.jpg
-
-
-
-https://github.com/KennethXiang/Decision-Fusion-based-Ensemble-Deep-Network-For-Hybird-Scene-Recognition/blob/master/Overview%20Model2%20(1).jpg
-
-
-
-https://github.com/KennethXiang/Decision-Fusion-based-Ensemble-Deep-Network-For-Hybird-Scene-Recognition/blob/master/Prediction-Fusion.jpg
-
-
-
-https://github.com/KennethXiang/Decision-Fusion-based-Ensemble-Deep-Network-For-Hybird-Scene-Recognition/blob/master/Prediction-Fusion2.jpg
-
-
-
-https://github.com/KennethXiang/Decision-Fusion-based-Ensemble-Deep-Network-For-Hybird-Scene-Recognition/blob/master/dataset2.jpg
-
-=======
->>>>>>> 59f21e0ef988c2ff2fe708f650a40fb9258a181b
